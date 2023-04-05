@@ -25,3 +25,4 @@ Dieser Kurs besteht aus den beiden Kursen:
 - PipeLine2
 - Variablen 2
 - Git
+- Skript Übung
