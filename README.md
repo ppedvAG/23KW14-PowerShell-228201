@@ -16,3 +16,12 @@ Dieser Kurs besteht aus den beiden Kursen:
 - Operationen
 - Formatierungen
 - PipeLine1
+- Export 
+- Import
+- Filtern
+- Aufzählen
+- Schleifen 
+- Verzweigungen
+- PipeLine2
+- Variablen 2
+- Git
