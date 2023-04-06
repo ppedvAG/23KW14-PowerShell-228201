@@ -28,3 +28,4 @@ Dieser Kurs besteht aus den beiden Kursen:
 - Skript Übung
 - Moegliche Lösung
 - Debug
+- PowerShell Remoting
