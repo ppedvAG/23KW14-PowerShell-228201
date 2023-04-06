@@ -26,3 +26,5 @@ Dieser Kurs besteht aus den beiden Kursen:
 - Variablen 2
 - Git
 - Skript Übung
+- Moegliche Lösung
+- Debug
